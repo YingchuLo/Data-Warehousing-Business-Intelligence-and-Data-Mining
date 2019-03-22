@@ -1,4 +1,4 @@
-# Case Study:					
+# Case 5:					
 
 ### - Goal: 
 Find the people who may become a buyer after receiving a discount
