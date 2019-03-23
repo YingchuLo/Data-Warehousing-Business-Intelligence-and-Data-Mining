@@ -5,14 +5,15 @@ Find the people who may become a buyer after receiving a discount
 <br></br>
 ![image](https://github.com/YingchuLo/Data-Warehousing-Business-Intelligence-and-Data-Mining/blob/master/project5/Screen%20Shot%202019-03-22%20at%203.44.45%20PM.png)
 <br></br>
+#### 4  types of customer
 1. buyer->buyer
 2. not buyer-> buyer
 3. not buyer-> not buyer
 4. buyer -> not buyer
-
-
-1-> discount->loss $
-2-> discount->increase $
+#### Care 1 & 2 type
+ 
+1: discount->decrease profit
+2: discount->increase proft
 
 ### - Dataset: 
 Enriched Smartpartyware Company
