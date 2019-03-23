@@ -1,5 +1,6 @@
 # Data-Warehousing-Business-Intelligence-and-Data-Mining
 # Video
+## Click picture to see the video
 [![IMAGE ALT TEXT HERE](https://github.com/YingchuLo/Data-Warehousing-Business-Intelligence-and-Data-Mining/blob/master/Screen%20Shot%202019-03-23%20at%202.18.38%20PM.png)](https://www.youtube.com/watch?v=FlVsnXsQAdI)
 
 
