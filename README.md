@@ -1,6 +1,6 @@
 # Data-Warehousing-Business-Intelligence-and-Data-Mining
 # Video
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=FlVsnXsQAdI/0.jpg)(https://www.youtube.com/watch?v=FlVsnXsQAdI)
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=FlVsnXsQAdI/0.jpg)](https://www.youtube.com/watch?v=FlVsnXsQAdI)
 
 
 ## - Goal:
