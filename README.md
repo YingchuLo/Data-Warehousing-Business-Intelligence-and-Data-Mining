@@ -6,9 +6,7 @@ Click picture to see the video
 
 ## - Goal:
 Find the people who may become a buyer after receiving a discount 
-<br></br>
-image![] 
-<br></br>
+
 ## - Dataset:
 Enriched Smartpartyware Company
 
